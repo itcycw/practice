@@ -14,7 +14,7 @@ public class ICarFactoryTest {
         factory.createIphone().call();
         factory.createIpad().painting();
 
-        System.out.printf("\n==================================\n");
+        System.out.printf("\n===================================\n");
 
         IPadFactory iPadFactory = new IPadFactory();
         iPadFactory.createCar().drive();
