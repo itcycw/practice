@@ -3,6 +3,9 @@ package com.awei.test;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author awei
+ */
 @SpringBootApplication
 public class TestApplication {
 
